@@ -19,12 +19,12 @@ def mostrar_menu():
     ruta_base = os.path.dirname(__file__)
 
     opciones = {
-        '1': 'UNIDAD 1/Semana 2/Tecnicas de Programacion/Ejemplo Tecnicas de Programacion.py',
-        '2': 'UNIDAD 1/Semana 3/situaciones del mundo real/Ejemplos del Mundo Real.py',
-        '3': 'UNIDAD 1/Semana 4/el promedio semanal del clima/Programación Orientada a Objetos Programación Tradicional.py',
-        '4': 'UNIDAD 2/Semana 5/Desarrollo de un pequeño programa/Tipos de datos.py',
-        '5': 'UNIDAD 2/Semana 6/Aplicacion de Conceptos de POO/definicion_de_clase_herencia_encapsulacion.py',
-        '6': 'UNIDAD 2/Semana 7/Constructores_y_Destructores/concepto_sobre_constructores_y_destructores.py',
+        '1': 'UNIDAD 1/Semana 2 Tecnicas de Programacion/Ejemplo Tecnicas de Programacion.py',
+        '2': 'UNIDAD 1/Semana 3 situaciones del mundo real/Ejemplos del Mundo Real POO.py',
+        '3': 'UNIDAD 1/Semana 4 promedio semanal del clima/Programación Orientada a Objetos/Programación Tradicional.py',
+        '4': 'UNIDAD 2/Semana 5 Desarrollo de un pequeño programa/Tipos de datos.py',
+        '5': 'UNIDAD 2/Semana 6 Aplicacion de Conceptos de POO/definicion_de_clase_herencia_encapsulacion.py',
+        '6': 'UNIDAD 2/Semana 7 Constructores_y_Destructores/concepto_sobre_constructores_y_destructores.py',
 
     }
 
