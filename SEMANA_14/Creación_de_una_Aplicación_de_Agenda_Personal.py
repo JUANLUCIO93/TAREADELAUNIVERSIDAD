@@ -60,7 +60,7 @@ def cargar_eventos():
 
 # Crear la ventana principal
 root = tk.Tk()
-root.title("AGENDA PERSONAL")
+root.title("AGENDA PERSONAL ESTUDIANTIL")
 root.geometry("600x400")
 root.configure(bg="sky blue")  # Fondo color celeste
 
